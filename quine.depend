@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1569919937 source:c:\users\evand\onedrive\desktop\evandro\quine\src\implicants.cpp
+	"Implicants.h"
+
+1569919914 c:\users\evand\onedrive\desktop\evandro\quine\include\implicants.h
+	<string>
+
+1569920216 source:c:\users\evand\onedrive\desktop\evandro\quine\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	"Implicants.h"
+
+1569980233 source:c:\users\evand\onedrive\desktop\aula1quine\quine - codeblock\quine\src\implicants.cpp
+	"Implicants.h"
+
+1569980155 c:\users\evand\onedrive\desktop\aula1quine\quine - codeblock\quine\include\implicants.h
+	<string>
+
+1570450871 source:c:\users\evand\onedrive\desktop\aula1quine\quine - codeblock\quine\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<algorithm>
+	"Implicants.h"
+
+1569980233 source:c:\users\evand\onedrive\desktop\aula2quine\quine - codeblock\quine\src\implicants.cpp
+	"Implicants.h"
+
+1569980155 c:\users\evand\onedrive\desktop\aula2quine\quine - codeblock\quine\include\implicants.h
+	<string>
+
+1571746920 source:c:\users\evand\onedrive\desktop\aula2quine\quine - codeblock\quine\main.cpp
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<algorithm>
+	"Implicants.h"
+
